@@ -1,0 +1,3 @@
+key "f3cb90a8b9924c989cf72a342988fe0f095891b42b0b64c47b8e2fcf03e92a34";
+remote ipv4 "gw01.l2tp.ffeu.de" port 50667;
+float yes;
